@@ -25,7 +25,5 @@ An interactive web-based assistant that helps users understand the election proc
 - Live election data integration
 
 ## 📷 Screenshots
-![UI](<img width="1328" height="677" alt="Screenshot 1" src="https://github.com/user-attachments/assets/23ba8bd9-3804-40fb-8851-0183c3eb2cbe" />
-)
-![Chat](<img width="1336" height="678" alt="Screenshot2 png" src="https://github.com/user-attachments/assets/a3d2ce64-0975-47f4-a797-42b9a7b2a37a" />
-)
+<img width="1336" height="678" alt="Screenshot2 png" src="https://github.com/user-attachments/assets/e89ed813-d35e-4f61-84f5-1c80c86f6d4b" />
+<img width="1328" height="677" alt="Screenshot 1" src="https://github.com/user-attachments/assets/92044a14-07b9-470f-8a85-3dcfba50c118" />
